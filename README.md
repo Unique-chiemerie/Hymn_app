@@ -1,6 +1,6 @@
 # hymn_app
 
-A new Flutter project.
+A hymn app for Kids with other features like"Facts,Hymn of the day,Personal Notes"
 
 ## Getting Started
 
